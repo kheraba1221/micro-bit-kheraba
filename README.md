@@ -1,4 +1,7 @@
-
+# Descripción
+:hurtrealbad:
+Aquest programa, inicialment s'escolta una melodía(com ja habies fet tu) i després fa una funció de doble grau amb el nombre de vegades que cliques el botó a.
+perquè fagi aquesta funció has de clicar el botó b i et retorna el nombre de vegades que has clicat a i el seu resultat final. si cliques 2 cops a et surt 1 i després el resultat de la funció amb n  equivalent a 1 si cliques un cop i després printa 2 i el resultat d'aquest quant n es equivalent a 2, el nombre que varia o sigui n es equivalent a les vegades que s'ha clicat a si cliques 3 cops el primer cop el valor de n es 1 el segon 2 i el terer 3.
 > Open this page at [https://kheraba1221.github.io/micro-bit-kheraba/](https://kheraba1221.github.io/micro-bit-kheraba/)
 
 ## Use as Extension
@@ -29,7 +32,6 @@ This image may take a few minutes to refresh.
 
 * for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
-Aquest programa, inicialment s'escolta una melodía(com ja habies fet tu) i després fa una funció de doble grau amb el nombre de vegades que cliques el botó a.
-perquè fagi aquesta funció has de clicar el botó b i et retorna el nombre de vegades que has clicat a i el seu resultat final. si cliques 2 cops a et surt 1 i després el resultat de la funció amb n  equivalent a 1 si cliques un cop i després printa 2 i el resultat d'aquest quant n es equivalent a 2, el nombre que varia o sigui n es equivalent a les vegades que s'ha clicat a si cliques 3 cops el primer cop el valor de n es 1 el segon 2 i el terer 3.
+
 ![image](https://user-images.githubusercontent.com/122232018/216134731-bb9d8753-edb8-42a5-a30c-fc4d1df19138.png)
 
